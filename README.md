@@ -22,6 +22,6 @@ The QR Code Generator is a web application designed to make creating QR codes qu
         
 
 ## 🙇 Author
-#### Saurabh Chauhan
+#### Suyash Gandhi
 - Gmail: [Suyash Gandhi](mailto:your.suyash25gandhi@gmail.com)
 - Github: [https://github.com/Suyash-Gandhi](https://github.com/Suyash-Gandhi)
