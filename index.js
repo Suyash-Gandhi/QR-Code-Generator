@@ -4,7 +4,8 @@ document.addEventListener("DOMContentLoaded", () => {
         width:200,
         height:200,
 
-    }); // Initialize QRCode
+    }); 
+    
     const button = document.getElementById("button");
     const input = document.getElementById("input");
     const heading = document.getElementById("heading");
@@ -30,6 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
             console.log("QR Code generated for input:", inputValue);
         }
     });
+    
     savebtn.addEventListener("click",()=>{
         const canvas = document.querySelector('.qrcode canvas');
         const link = document.createElement('a');
